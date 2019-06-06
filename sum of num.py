@@ -1,6 +1,6 @@
-n=int(input("Enter a number: "))
-sum1 = 0
+n=int(input("enter a number: "))
+s = 0
 while(n > 0):
-    sum1=sum1+n
+    s=s+n
     n=n-1
-print(sum1)
+print(s)

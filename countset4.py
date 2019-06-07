@@ -1,3 +1,3 @@
-a=input()
-b=a.replace(" ","")
-print(len(b))
+num1=input()
+s=num1.replace(" ","")
+print(len(s))

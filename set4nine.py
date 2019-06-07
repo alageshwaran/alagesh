@@ -1,2 +1,2 @@
-a=input().split()
-print(max(a,key=int))
+num3=input().split()
+print(max(num3,key=int))

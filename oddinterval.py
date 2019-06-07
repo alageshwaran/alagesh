@@ -1,6 +1,6 @@
-N,Q=input().split()
-Q=int(Q)
-N=int(N)
-for i in range(N+1,Q):
+a,b=input().split()
+a=int(a)
+b=int(b)
+for i in range(a+1,b):
     if(i%2!=0):
         print(i,end=' ')

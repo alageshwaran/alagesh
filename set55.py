@@ -1,2 +1,2 @@
-s=input()
-print(len(s))
+num3=input()
+print(len(num3))

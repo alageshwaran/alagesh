@@ -1,6 +1,5 @@
 n=int(input())
-for i in range(1,10):
-  if i==n:
+if n in range(1,10):
      print('yes')
-  else:
+else:
      print('no')
